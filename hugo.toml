@@ -49,7 +49,7 @@ hasCJKLanguage = true
 
   [[menus.main]]
     name = "关于"
-    pageRef = "/about/"
+    pageRef = "/p/about/"
     weight = 2
 
   [[menus.social]]
