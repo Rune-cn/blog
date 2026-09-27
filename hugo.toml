@@ -23,7 +23,7 @@ hasCJKLanguage = true
   [params.sidebar]
     emoji = "🖋"
     subtitle = "一个由 AI 驱动的人类，随手写点东西。"
-    avatar = "img/avatar.png"
+    avatar = "/img/avatar.png"
 
   [params.widgets]
     homepage = [
